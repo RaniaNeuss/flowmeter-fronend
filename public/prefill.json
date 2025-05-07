@@ -1,0 +1,45 @@
+[
+    {
+      "item": "1",
+      "type_of_rfp": "Inlet",
+      "rfp_reference": "GHNT-RFP001",
+      "xref_rfp_list": "GHNT-RFP001",
+      "inlet_to_ww_treatment": true,
+      "outlet_from_ww_treatment": false,
+      "terminal_pumping_output": false,
+      "wastewater_tanker_discharge": false,
+      "tanker_fill_point": false,
+      "incident_reporting": false,
+      "approval_expiry": "2018-04-01",
+      "approved_reapplication": "",
+      "appeal_application": "",
+      "appeal_extension_application": "",
+      "appeal_extension_decision": "",
+      "panel_appeal_meeting": "",
+      "panel_appeal_decision_date": "",
+      "doe_appeal_decision_date": "",
+      "panel_appeal_final_result": ""
+    },
+    {
+      "item": "2",
+      "type_of_rfp": "Inlet",
+      "rfp_reference": "GHNT-RFP002",
+      "xref_rfp_list": "GHNT-RFP002",
+      "inlet_to_ww_treatment": true,
+      "outlet_from_ww_treatment": false,
+      "terminal_pumping_output": false,
+      "wastewater_tanker_discharge": false,
+      "tanker_fill_point": false,
+      "incident_reporting": false,
+      "approval_expiry": "2018-04-01",
+      "approved_reapplication": "",
+      "appeal_application": "",
+      "appeal_extension_application": "",
+      "appeal_extension_decision": "",
+      "panel_appeal_meeting": "",
+      "panel_appeal_decision_date": "",
+      "doe_appeal_decision_date": "",
+      "panel_appeal_final_result": ""
+    }
+  ]
+  
